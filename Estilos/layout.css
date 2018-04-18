@@ -76,17 +76,19 @@ a{
 .firstText{
     margin-top: 57px;
 }
+#contato{
+    text-align: center;
+}
 #contato a{
     text-decoration: none;
     color: black;
 }
 #gabriel{
-    text-align: center;
-    //float: left;
+    padding-left: 7%;
+    float: left;
 }
 #jeferson{
-    text-align: center;
-    //float: right;
+    //text-align: center;
 }
 .selfie		 {
 	width: auto;
@@ -94,10 +96,9 @@ a{
     border-radius: 50%;
 }
 footer{
-    margin-left: -10%;
     padding-top: -1px;
     font-size: 16px;
-    width: 110%;
+    width: 100%;
     height: 40px;
     text-align: center;
     background-color: #f0f0f0;
