@@ -69,6 +69,7 @@ a{
 #conteudo{
     margin-left: 185px;
     font-family: 'Libre Franklin', sans-serif;
+    margin-right: 10px;
 }
 .texto{
     margin-top: 50px;
@@ -79,6 +80,32 @@ a{
 #contato{
     text-align: center;
 }
+.button {
+    background-color: #62626242;
+    border: none;
+    padding: 4px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.video{
+    text-align: center;
+}
+table{
+    border: none;
+    font-size: 18px;
+}
+.t1{
+    background: #636363;
+    color: white;
+}
+.t2{
+    background: #b8b8b8;
+}
+.t3{
+    background: #636363;
+}
 #contato a{
     text-decoration: none;
     color: black;
@@ -88,7 +115,7 @@ a{
     float: left;
 }
 #jeferson{
-    //text-align: center;
+    text-align: center;
 }
 .selfie		 {
 	width: auto;
